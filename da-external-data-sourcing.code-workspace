@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../neuefische/da-external-data-sourcing"
+		},
+		{
+			"path": "../../neuefische/da-sql-api-project"
+		},
+		{
+			"path": "../boardgamegeek"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
