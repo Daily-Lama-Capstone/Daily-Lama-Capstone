@@ -6,8 +6,8 @@ def df_main(xtree):
     for node in xtree:
         try:
             id = node.attrib.get("objectid")
-            description = node.find("description").text
             yearpublished = node.find("yearpublished").text
+            description = node.find("description").text
             minplayers = node.find("minplayers").text
             maxplayers = node.find("maxplayers").text
             playingtime = node.find("playingtime").text
