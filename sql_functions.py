@@ -61,20 +61,20 @@ def get_engine():
     return engine
 
 
-# def build_table(engine, table_name, dataframe):
-#     if engine!=None:
-#         try:
-#             dataframe.to_sql(name=table_name, # Name of SQL table
-#                             con=engine, # Engine or connection
-#                             if_exists='replace', # Drop the table before inserting new values 
-#                             schema=schema, # Use schmea that was defined earlier
-#                             index=False, # Write DataFrame index as a column
-#                             chunksize=5000, # Specify the number of rows in each batch to be written at a time
-#                             method='multi') # Pass multiple values in a single INSERT clause
-#             print(f"The {table_name} table was imported successfully.")
-#     # Error handling
-#         except (Exception, psycopg2.DatabaseError) as error:
-#             print(error)
-#             engine = None
+def build_table(engine, table_name, dataframe, schema):
+    if engine!=None:
+        try:
+            dataframe.to_sql(name=table_name, # Name of SQL table
+                            con=engine, # Engine or connection
+                            if_exists='replace', # Drop the table before inserting new values 
+                            schema=schema, # Use schmea that was defined earlier
+                            index=False, # Write DataFrame index as a column
+                            chunksize=5000, # Specify the number of rows in each batch to be written at a time
+                            method='multi') # Pass multiple values in a single INSERT clause
+            print(f"The {table_name} table was imported successfully.")
+    # Error handling
+        except (Exception, psycopg2.DatabaseError) as error:
+            print(error)
+            engine = None
 
     

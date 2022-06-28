@@ -4,8 +4,8 @@ import pandas as pd
 def df_main(xtree):
     result = []
     for node in xtree:
-        id = node.attrib.get("objectid")
         try:
+            id = node.attrib.get("objectid")
             description = node.find("description").text
             yearpublished = node.find("yearpublished").text
             minplayers = node.find("minplayers").text
