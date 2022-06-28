@@ -18,7 +18,6 @@ def df_main(xtree):
                     "max_playtime":maxplayingtime, "min_age": min_age})
     return pd.DataFrame(result)
 
-
 def df_poll(xtree, entrypoint=""):
     '''
     INPUT:\n
@@ -32,21 +31,15 @@ def df_poll(xtree, entrypoint=""):
     for node in xtree:
         id = node.attrib.get("objectid")
         for node3 in node.findall('poll'):
-            if node3.attrib['name'] == "suggested_numplayers":
-                for node4 in node3:
-                    for node5 in node4:
-                        if node5.attrib['numvotes'] != "0":
-                            result.append({"id": id ,"num_players_recomm": node5.attrib['value'] + " for " + node4.attrib["numplayers"] + " player(s)", "num_votes": node5.attrib['numvotes']})
-            if node3.attrib['name'] == 'suggested_playerage':
-                for node4 in node3:
-                    for node5 in node4:
-                        if node5.attrib['numvotes'] != "0":
-                            result.append({"id": id ,"age": node5.attrib['value'], "num_votes": node5.attrib['numvotes']})
-            if node3.attrib['name'] == 'language_dependence':
-                for node4 in node3:
-                    for node5 in node4:
-                        if node5.attrib['numvotes'] != "0":
-                            result.append({"id": id ,"language_dep": node5.attrib['value'], "num_votes": node5.attrib['numvotes']})
+            for node4 in node3:
+                for node5 in node4:
+                    node_name = node3.attrib['name']
+                    if node_name == "suggested_numplayers" and node5.attrib['numvotes'] != "0":
+                        result.append({"id": id ,"num_players_recomm": node5.attrib['value'] + " for " + node4.attrib["numplayers"] + " player(s)", "num_votes": node5.attrib['numvotes']})
+                    elif node_name == 'suggested_playerage' and node5.attrib['numvotes'] != "0":
+                        result.append({"id": id ,"age": node5.attrib['value'], "num_votes": node5.attrib['numvotes']})
+                    elif node_name == 'language_dependence' and node5.attrib['numvotes'] != "0":
+                        result.append({"id": id ,"language_dep": node5.attrib['value'], "num_votes": node5.attrib['numvotes']})
     return pd.DataFrame(result)
 
 
@@ -57,6 +50,7 @@ def df_subnodes(xtree, entrypoint="name"):
     xtree = lxml.etree.parse("sample.xml", parser= parser).getroot()\n 
     entrypoint in [
         'boardgamecategory',
+        'boardgamesubdomain',
         'boardgamemechanic',
         'boardgamefamily',
         'boardgameexpansion',
@@ -85,7 +79,8 @@ def df_subnodes(xtree, entrypoint="name"):
         'boardgamepublisher',
         'boardgamepodcastepisode',
         'boardgameimplementation',
-        'videogamebg'
+        'videogamebg',
+        'boardgamesubdomain'
     ]
     for node in xtree:
         id = node.attrib.get("objectid")
