@@ -35,11 +35,11 @@ def df_poll(xtree, entrypoint=""):
                 for node5 in node4:
                     node_name = node3.attrib['name']
                     if node_name == "suggested_numplayers" and node5.attrib['numvotes'] != "0":
-                        result.append({"id": id ,"num_players_recomm": node5.attrib['value'] + " for " + node4.attrib["numplayers"] + " player(s)", "num_votes": node5.attrib['numvotes']})
+                        result.append({"id": id , "type_poll": node_name, "poll_value": node5.attrib['value'] + " for " + node4.attrib["numplayers"] + " player(s)", "num_votes": node5.attrib['numvotes']})
                     elif node_name == 'suggested_playerage' and node5.attrib['numvotes'] != "0":
-                        result.append({"id": id ,"age": node5.attrib['value'], "num_votes": node5.attrib['numvotes']})
+                        result.append({"id": id , "type_poll": node_name, "poll_value": node5.attrib['value'], "num_votes": node5.attrib['numvotes']})
                     elif node_name == 'language_dependence' and node5.attrib['numvotes'] != "0":
-                        result.append({"id": id ,"language_dep": node5.attrib['value'], "num_votes": node5.attrib['numvotes']})
+                        result.append({"id": id , "type_poll": node_name, "poll_value": node5.attrib['value'], "num_votes": node5.attrib['numvotes']})
     return pd.DataFrame(result)
 
 
