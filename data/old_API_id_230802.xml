@@ -1,356 +1,358 @@
 <boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
-	<boardgame objectid="230802">
-		<yearpublished>2017</yearpublished>
-		<minplayers>2</minplayers>
-		<maxplayers>4</maxplayers>
-		<playingtime>45</playingtime>
-		<minplaytime>30</minplaytime>
-		<maxplaytime>45</maxplaytime>
-		<age>8</age>
+					<boardgame objectid="230802">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
 
-		<name primary="true" sortindex="1">Azul</name>
-		<name sortindex="1">アズール</name>
-		<name sortindex="1">花磚物語</name>
-		<name sortindex="1">아줄</name>
+							<name primary="true" sortindex="1">Azul</name>
+							<name  sortindex="1">アズール</name>
+							<name  sortindex="1">花磚物語</name>
+							<name  sortindex="1">아줄</name>
+									
+			<description>Introduced by the Moors, azulejos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles. The king, awestruck by the interior beauty of the Alhambra, immediately ordered that his own palace in Portugal be decorated with similar wall tiles. As a tile-laying artist, you have been challenged to embellish the walls of the Royal Palace of Evora.&lt;br/&gt;&lt;br/&gt;In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.&lt;br/&gt;&lt;br/&gt;</description>
 
-		<description>Introduced by the Moors, azulejos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles. The king, awestruck by the interior beauty of the Alhambra, immediately ordered that his own palace in Portugal be decorated with similar wall tiles. As a tile-laying artist, you have been challenged to embellish the walls of the Royal Palace of Evora.&lt;br/&gt;&lt;br/&gt;In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.&lt;br/&gt;&lt;br/&gt;</description>
+							<thumbnail>https://cf.geekdo-images.com/tz19PfklMdAdjxV9WArraA__thumb/img/debo694HgBaIBeNGyxu1ELUbQGA=/fit-in/200x150/filters:strip_icc()/pic3718275.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/tz19PfklMdAdjxV9WArraA__original/img/eFRt3o7W6YltnrkqpiSOKr2rKCw=/0x0/filters:format(jpeg)/pic3718275.jpg</image>
+						
+												<boardgamehonor objectid="47793">2017 Cardboard Republic Architect Laurel Winner</boardgamehonor>
+															<boardgamehonor objectid="47424">2017 Golden Geek Best Family Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="47067">2018 As d&#039;Or - Jeu de l&#039;Année Winner</boardgamehonor>
+															<boardgamepublisher objectid="38363">Next Move Games</boardgamepublisher>
+															<boardgamepublisher objectid="34188">Plan B Games</boardgamepublisher>
+																						<boardgamepodcastepisode objectid="423109">#42 - Tile Placement Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="213551">#57: FBGL 2017, The Networks Executives, Indulgence on tap, Magic Maze and The State of the Podcast</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="223303">#63: Azul six-pack &amp;amp; on tap; Alien Frontiers; Go Nuts for Donuts; Harvest Dice; Barleywines; Listener Q&amp;amp;A</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="225495">#65: 2017 In Review</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="245514">#78: The 2017 Redux! Tokyo Highway, Circle the Wagons on tap, Carcassonne: Amazonas</boardgamepodcastepisode>
+															<boardgamehonor objectid="61815">2017 Board Game Quest Awards Best Game from a Small Publisher Nominee</boardgamehonor>
+															<boardgamehonor objectid="46983">2017 Cardboard Republic Architect Laurel Nominee</boardgamehonor>
+															<boardgamehonor objectid="47451">2017 Golden Geek Best Board Game Artwork &amp; Presentation Nominee</boardgamehonor>
+															<boardgamehonor objectid="47468">2017 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="47472">2017 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="47432">2017 Golden Geek Board Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="47482">2017 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="48768">2017 Meeples&#039; Choice Nominee</boardgamehonor>
+															<boardgamehonor objectid="64688">2017 Meeples&#039; Choice Winner</boardgamehonor>
+															<boardgamehonor objectid="64001">2018 Årets Spill Best Family Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64007">2018 Årets Spill Best Family Game Winner</boardgamehonor>
+															<boardgamehonor objectid="47070">2018 As d&#039;Or - Jeu de l&#039;Année Nominee</boardgamehonor>
+															<boardgamehonor objectid="64389">2018 Boardgames Australia Awards Best International Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64390">2018 Boardgames Australia Awards Best International Game Winner</boardgamehonor>
+															<boardgamehonor objectid="51260">2018 Deutscher Spiele Preis Best Family/Adult Game Winner</boardgamehonor>
+															<boardgamehonor objectid="51172">2018 Gioco dell’Anno Nominee</boardgamehonor>
+															<boardgamehonor objectid="64301">2018 Gouden Ludo Best Family Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64303">2018 Gouden Ludo Best Family Game Winner</boardgamehonor>
+															<boardgamehonor objectid="53356">2018 Guldbrikken Best Adult Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="53360">2018 Guldbrikken Best Adult Game Winner</boardgamehonor>
+															<boardgamehonor objectid="64121">2018 Hra roku Finalist</boardgamehonor>
+															<boardgamehonor objectid="58910">2018 International Gamers Award - General Strategy: Multi-player Nominee</boardgamehonor>
+															<boardgamehonor objectid="65378">2018 Juego del Año Finalist</boardgamehonor>
+															<boardgamehonor objectid="65371">2018 Juego del Año Winner</boardgamehonor>
+															<boardgamehonor objectid="65465">2018 JUGuinho Families Game of the Year Finalist</boardgamehonor>
+															<boardgamehonor objectid="65452">2018 JUGuinho Families Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="65361">2018 Lys Grand Public Finalist</boardgamehonor>
+															<boardgamehonor objectid="48832">2018 Mensa Select Winner</boardgamehonor>
+															<boardgamehonor objectid="55902">2018 Nederlandse Spellenprijs Best Family Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="55905">2018 Nederlandse Spellenprijs Best Family Game Winner</boardgamehonor>
+															<boardgamehonor objectid="48839">2018 Origins Awards Best Family Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="48845">2018 Origins Awards Best Family Game Winner</boardgamehonor>
+															<boardgamehonor objectid="57420">2018 Spiel der Spiele Hit für Familien Recommended</boardgamehonor>
+															<boardgamehonor objectid="48399">2018 Spiel des Jahres Nominee</boardgamehonor>
+															<boardgamehonor objectid="49380">2018 Spiel des Jahres Winner</boardgamehonor>
+															<boardgamehonor objectid="55611">2018 Tric Trac d&#039;Argent</boardgamehonor>
+															<boardgamehonor objectid="55609">2018 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="64099">2019 Gra Roku Best Artwork Winner</boardgamehonor>
+															<boardgamehonor objectid="64084">2019 Gra Roku Family Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="65407">2019 Hungarian Board Game Award Nominee</boardgamehonor>
+															<boardgamehonor objectid="64177">2019 MinD-Spielepreis Short Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64198">2019 MinD-Spielepreis Short Game Winner</boardgamehonor>
+															<boardgamehonor objectid="57068">2019 UK Games Expo Best Abstract Game Judges Award Winner</boardgamehonor>
+															<boardgamehonor objectid="57069">2019 UK Games Expo Best Abstract Game People&#039;s Choice Winner</boardgamehonor>
+															<boardgamepodcastepisode objectid="426846">222 - Azul</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="426842">226 - Top 5s</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="225520">43. DDP The best Games of 2017 (In our opinion)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="241046">50 DDP The UKGE 2018 Preview Show</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="244387">52. The Travel Edition, Our Top 3 Games to Take on Holiday</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="379868">6: Tile Swimmers (Azul, Jaws, Mork Borg)</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+																																				<boardgamepodcastepisode objectid="275219">Azul - Strategy</boardgamepodcastepisode>
+																																																																																																			<boardgameaccessory objectid="294888">Azul: 2 Player Gaming Mat</boardgameaccessory>
+																						<boardgameaccessory objectid="248957">Azul: Collector&#039;s Tile Set 1</boardgameaccessory>
+															<boardgameaccessory objectid="248958">Azul: Collector&#039;s Tile Set 2</boardgameaccessory>
+															<boardgameaccessory objectid="330388">Azul: Collector&#039;s Tile Set 3</boardgameaccessory>
+															<boardgameaccessory objectid="347428">Azul: Collector&#039;s Tile Set 4</boardgameaccessory>
+															<boardgameaccessory objectid="347429">Azul: Collector&#039;s Tile Set 5</boardgameaccessory>
+															<boardgameaccessory objectid="330387">Azul: Collector&#039;s Tile Set 6</boardgameaccessory>
+															<boardgameexpansion objectid="294345">Azul: Crystal Mosaic</boardgameexpansion>
+															<boardgameaccessory objectid="256366">Azul: Factory Layout Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="248959">Azul: First Player Tile</boardgameaccessory>
+																						<boardgameexpansion objectid="235739">Azul: Joker Tiles</boardgameexpansion>
+															<boardgameimplementation objectid="363247">Azul: Master Chocolatier</boardgameimplementation>
+															<boardgameaccessory objectid="250753">Azul: Overlays</boardgameaccessory>
+															<boardgameimplementation objectid="346965">Azul: Queen&#039;s Garden</boardgameimplementation>
+															<boardgameexpansion objectid="264017">Azul: Special Factories Promo</boardgameexpansion>
+															<boardgameimplementation objectid="256226">Azul: Stained Glass of Sintra</boardgameimplementation>
+															<boardgameimplementation objectid="287954">Azul: Summer Pavilion</boardgameimplementation>
+															<boardgameversion objectid="420068">Baltic edition</boardgameversion>
+															<boardgamepodcastepisode objectid="223088">BGP 017: 2017 Holiday Buying Guide</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="223701">BGP 018: Top 10 Board Games of 2017</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="325216">Board Game Kiki Episode 7: Holiday Gift Guide</boardgamepodcastepisode>
+																																				<boardgamepublisher objectid="9068">Broadway Toys LTD</boardgamepublisher>
+															<boardgameversion objectid="560187">Bulgarian/Serbian/Macedonian edition</boardgameversion>
+															<boardgameversion objectid="395362">Chinese edition</boardgameversion>
+															<boardgamefamily objectid="5614">Country: Portugal</boardgamefamily>
+															<boardgameversion objectid="410836">Czech edition</boardgameversion>
+															<boardgamepodcastepisode objectid="383185">Decision Space (What We Talk About)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="368302">Den svære 2&#039;er</boardgamepodcastepisode>
+															<boardgameexpansion objectid="257590">Deutscher Spielepreis 2018 Goodie Box</boardgameexpansion>
+															<boardgamefamily objectid="70360">Digital Implementations: Board Game Arena</boardgamefamily>
+															<boardgamepublisher objectid="40415">Divercentro</boardgamepublisher>
+															<boardgameversion objectid="437888">Divercentro Portuguese edition</boardgameversion>
+															<boardgamepodcastepisode objectid="258512">DJ172: Azul (2017) Michael Kiesling</boardgamepodcastepisode>
+																																											<boardgameversion objectid="385808">Dutch/French first edition</boardgameversion>
+															<boardgameversion objectid="401797">Dutch/French second edition</boardgameversion>
+															<boardgamemechanic objectid="2875">End Game Bonuses</boardgamemechanic>
+															<boardgameversion objectid="407637">English giant edition</boardgameversion>
+															<boardgameversion objectid="361011">English-only first edition</boardgameversion>
+															<boardgameversion objectid="399165">English-only second edition</boardgameversion>
+															<boardgameversion objectid="389764">English/French first edition</boardgameversion>
+															<boardgameversion objectid="422181">English/French second edition</boardgameversion>
+															<boardgameversion objectid="432700">English/Indonesian/Malay edition</boardgameversion>
+															<boardgamepodcastepisode objectid="252168">Ep 070 &amp;ndash; 3rd Anniversary Special &amp;amp; Tournament to the Death!!!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="266048">ep 33: Azthul</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="228039">Ep 4 - Azul Review and Getting Peeved</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="252278">Ep.19 Bitten, and Gen Con!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227718">Episode #57: Holiday-Themed Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227717">Episode #58: Game Difficulty</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="234316">Episode #73: 3-Player Games!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="348180">Episode 104 - Just the Two of Us</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="298162">Episode 106 :: Best Boardgames - Brawling Brothers Blend 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="223298">Episode 112- Whistle Stop with Rolling Dice &amp;amp; Taking Names</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="445645">Episode 11: Dead Reckoning</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="334192">Episode 120 :: Top 20 Board Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="348653">Episode 126 :: Power to the Meeple Interview</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="266396">Episode 12: Tales from the Tile Room [Azul Review]</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="284811">Episode 13 – Darling Cant You Hear Me S.O.S.</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="245711">Episode 135 -- Dusting Off The Shelves</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="235848">Episode 13: Azul</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="391320">Episode 145 :: Joy of the Stick</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="285921">Episode 14: A Dumb Feud over a Glass of Agri-Cola</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="360731">Episode 14: War Chest, Call To Adventure, Bob&#039;s Your Uncle</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="287658">Episode 15- Azul</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="233207">Episode 155 Tim Time, Interview with Designer Tim Fowers</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="360727">Episode 18: Everdell, The Crew, In The Hall Of The Mountain King</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="232441">Episode 19: We&#039;re Back!...At the saloon bantering.</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="302954">Episode 20 - Top 50 Games Part 1</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="228297">Episode 22 - New Games Delivered &amp;amp; Host Autobiographies</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="222831">Episode 223</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="224748">Episode 24: Azul, Twilight Imperium: Fourth Edition, Favelas, Galaxy Trucker, Spirit Island</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="328708">Episode 27 – Holiday Special 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="235799">Episode 28 - Meaty Weeknight Gaming</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="283713">Episode 28. King of Tokyo and Azul</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="331139">Episode 3 - In the Hall of the Mountain King and Age of Steam (Deluxe)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="268159">Episode 31: Next Move</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="272583">Episode 4 - Duelosaur Island &amp;amp; Showdown between Reef, Azul, &amp;amp; Azul Stained Glass</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227699">Episode 44 - The 2017 Blitzies</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="272593">Episode 50: London, Azul, Hardback, Raiders of the North Sea, Potion Explosion</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="218621">Episode 53 - Evan Derrick Interview</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="262366">Episode 64 - Gaming For Good</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="378052">Episode 64:  Dune Imperium, Paladins of the West Kingdom, Zombie Teenz Evolution</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227236">Episode 65 :: Raiders of the North Sea Review - Secret Santa</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227996">Episode 66 :: Charterstone Review + Best Board Games of 2017</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="230157">Episode 67 - Munchkin CCG and Friends</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="229796">Episode 67 :: Godfather Review + Top 21-30 Board Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="232555">Episode 69 :: Sorcerer City + SaltCon Recap</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="233788">Episode 70 :: Zombicide Green Horde Review + Questions from the Hat with Cat</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="380875">Episode 72: A War of Whispers, Dice Forge, Raiders of the North Sea</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="241767">Episode 74 :: Our Favorite Board Games (21-50) + Origins Meetup Discussion</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="239709">Episode 97 - Empires of the Void II and Path of Play Day 2018</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																						<boardgameversion objectid="386433">French-only first edition</boardgameversion>
+															<boardgameversion objectid="403423">French-only second edition</boardgameversion>
+															<boardgamepublisher objectid="15605">Galápagos Jogos</boardgamepublisher>
+															<boardgameversion objectid="403763">Galápagos Portuguese edition</boardgameversion>
+															<boardgamefamily objectid="57039">Game: Azul</boardgamefamily>
+															<boardgamepodcastepisode objectid="224751">Gamers, Grenades, and Grottos – Ep. 3</boardgamepodcastepisode>
+															<commerceweblink objectid="292748">Geek Game Shop listing for Azul</commerceweblink>
+															<commerceweblink objectid="320624">Geek Game Shop listing for Azul</commerceweblink>
+															<boardgamepublisher objectid="8820">Gém Klub Kft.</boardgamepublisher>
+															<boardgamepodcastepisode objectid="306094">GenCon 2019 Shabadoo!</boardgamepodcastepisode>
+															<boardgameversion objectid="369734">German first edition</boardgameversion>
+																																																									<boardgameversion objectid="399023">German second edition</boardgameversion>
+															<boardgameversion objectid="417134">German second edition with SdJ</boardgameversion>
+															<boardgameversion objectid="498742">German second edition with three awards</boardgameversion>
+															<boardgamepublisher objectid="4785">Ghenos Games</boardgamepublisher>
+															<boardgameversion objectid="473068">Greek edition</boardgameversion>
+															<boardgameartist objectid="74074">Philippe Guérin</boardgameartist>
+															<boardgamepodcastepisode objectid="243979">HLG 46: Azul</boardgamepodcastepisode>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+																						<boardgameversion objectid="400923">Hungarian edition</boardgameversion>
+																						<boardgamepodcastepisode objectid="227778">I Swear I’m a Word Genius – Ep. 4</boardgamepodcastepisode>
+																						<boardgameversion objectid="397236">Italian edition</boardgameversion>
+															<boardgamepodcastepisode objectid="260346">Ivanhoe | Azul | Battle of the Sexes</boardgamepodcastepisode>
+															<boardgameversion objectid="391554">Japanese edition</boardgameversion>
+															<boardgamepodcastepisode objectid="220688">JTRPodcast 026 – Top 10 Games from Essen 2017</boardgamepodcastepisode>
+															<boardgamepublisher objectid="9634">KADABRA</boardgamepublisher>
+															<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
+															<boardgamedesigner objectid="42">Michael Kiesling</boardgamedesigner>
+															<boardgamepublisher objectid="8291">Korea Boardgames Co., Ltd.</boardgamepublisher>
+															<boardgameversion objectid="406911">Korean edition</boardgameversion>
+															<boardgamepublisher objectid="5812">Lacerta</boardgamepublisher>
+																													<boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
+															<boardgamefamily objectid="6485">Misc: Mensa Select</boardgamefamily>
+															<boardgamepodcastepisode objectid="227605">MN 0199 Tichu, Exodus Fleet, Azul, Oh My!</boardgamepodcastepisode>
+																						<boardgameversion objectid="403830">Nordic edition</boardgameversion>
+															<boardgamemechanic objectid="2041">Open Drafting</boardgamemechanic>
+															<boardgamepublisher objectid="40462">Orangutan Games</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+																																				<boardgameversion objectid="378114">Polish edition</boardgameversion>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgameartist objectid="14057">Chris Quilliams</boardgameartist>
+															<boardgamepodcastepisode objectid="214956">RDTN Episode 129: London, Azul, Flying Squirrels, and Rambling</boardgamepodcastepisode>
+															<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
+																						<boardgameversion objectid="403039">Romanian/Arabic edition</boardgameversion>
+															<videogamebg objectid="348023">Royal Tiles</videogamebg>
+															<boardgameversion objectid="378408">Russian edition</boardgameversion>
+															<boardgameversion objectid="391592">Spanish edition</boardgameversion>
+															<boardgameexpansion objectid="293240">Super Power</boardgameexpansion>
+															<boardgamepublisher objectid="48279">SuperHeated Neurons</boardgamepublisher>
+															<boardgamepodcastepisode objectid="227219">TGT 073: Analysis Paralysis</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="256967">TGT 108 On Topic: Generic Older Alpha Player Feedback</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="268959">TGT 113 On Topic: Replayability</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="273080">TGT 122: $250 Game Collection</boardgamepodcastepisode>
+															<boardgameversion objectid="429878">Thai/English edition</boardgameversion>
+																						<boardgamepodcastepisode objectid="241941">The Dice Men Cometh – Episode 215</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="274179">The Dice Men Cometh – Episode 245</boardgamepodcastepisode>
+																						<boardgamepodcastepisode objectid="221009">The Game Pit Podcast - Episode 103: Picking Over the Bones of Spiel 2017</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="219591">The Game Pit Podcast - Episode 99: Spiel 2017 Treasure Hunt Part 4</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="230682">The Good, the Board and Pulling the String: Episode 152 The Mechanisms of Negotiation</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="228870">The Good, the Board, and the Handicapable: Episode 149 Adapting Board games to Create Attainable Goals for Students with Special Needs</boardgamepodcastepisode>
+															<boardgamefamily objectid="56419">Theme: Art</boardgamefamily>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamepublisher objectid="39774">Tower Tactic Games</boardgamepublisher>
+															<boardgamemechanic objectid="2829">Turn Order: Claim Action</boardgamemechanic>
+															<boardgamepublisher objectid="9215">TWOPLUS Games</boardgamepublisher>
+															<boardgameversion objectid="592290">Ukrainian edition</boardgameversion>
+																													<boardgamepodcastepisode objectid="222745">Vox Republica 156: BGG Recap &amp;amp; Game Gifts For Non-Gamers</boardgamepodcastepisode>
+																						<boardgamepublisher objectid="1466">Zvezda</boardgamepublisher>
+															<boardgamepublisher objectid="50230">Бельвіль</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1169">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="742" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="637" />
+					<result value="Recommended" numvotes="415" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="451" />
+					<result value="Recommended" numvotes="553" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="279" />
+					<result value="Recommended" numvotes="632" />
+					<result value="Not Recommended" numvotes="97" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="623" />
+				</results>					
+	</poll>
 
-		<thumbnail>https://cf.geekdo-images.com/tz19PfklMdAdjxV9WArraA__thumb/img/debo694HgBaIBeNGyxu1ELUbQGA=/fit-in/200x150/filters:strip_icc()/pic3718275.jpg</thumbnail>
-		<image>https://cf.geekdo-images.com/tz19PfklMdAdjxV9WArraA__original/img/eFRt3o7W6YltnrkqpiSOKr2rKCw=/0x0/filters:format(jpeg)/pic3718275.jpg</image>
+			<poll name="language_dependence" title="Language Dependence" totalvotes="74">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="74" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
 
-		<boardgamehonor objectid="47793">2017 Cardboard Republic Architect Laurel Winner</boardgamehonor>
-		<boardgamehonor objectid="47424">2017 Golden Geek Best Family Board Game Winner</boardgamehonor>
-		<boardgamehonor objectid="47067">2018 As d&#039;Or - Jeu de l&#039;Année Winner</boardgamehonor>
-		<boardgamepublisher objectid="38363">Next Move Games</boardgamepublisher>
-		<boardgamepublisher objectid="34188">Plan B Games</boardgamepublisher>
-		<boardgamepodcastepisode objectid="423109">#42 - Tile Placement Games</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="213551">#57: FBGL 2017, The Networks Executives, Indulgence on tap, Magic Maze and The State of the Podcast</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="223303">#63: Azul six-pack &amp;amp; on tap; Alien Frontiers; Go Nuts for Donuts; Harvest Dice; Barleywines; Listener Q&amp;amp;A</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="225495">#65: 2017 In Review</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="245514">#78: The 2017 Redux! Tokyo Highway, Circle the Wagons on tap, Carcassonne: Amazonas</boardgamepodcastepisode>
-		<boardgamehonor objectid="61815">2017 Board Game Quest Awards Best Game from a Small Publisher Nominee</boardgamehonor>
-		<boardgamehonor objectid="46983">2017 Cardboard Republic Architect Laurel Nominee</boardgamehonor>
-		<boardgamehonor objectid="47451">2017 Golden Geek Best Board Game Artwork &amp; Presentation Nominee</boardgamehonor>
-		<boardgamehonor objectid="47468">2017 Golden Geek Best Family Board Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="47472">2017 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="47432">2017 Golden Geek Board Game of the Year Nominee</boardgamehonor>
-		<boardgamehonor objectid="47482">2017 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="48768">2017 Meeples&#039; Choice Nominee</boardgamehonor>
-		<boardgamehonor objectid="64688">2017 Meeples&#039; Choice Winner</boardgamehonor>
-		<boardgamehonor objectid="64001">2018 Årets Spill Best Family Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="64007">2018 Årets Spill Best Family Game Winner</boardgamehonor>
-		<boardgamehonor objectid="47070">2018 As d&#039;Or - Jeu de l&#039;Année Nominee</boardgamehonor>
-		<boardgamehonor objectid="64389">2018 Boardgames Australia Awards Best International Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="64390">2018 Boardgames Australia Awards Best International Game Winner</boardgamehonor>
-		<boardgamehonor objectid="51260">2018 Deutscher Spiele Preis Best Family/Adult Game Winner</boardgamehonor>
-		<boardgamehonor objectid="51172">2018 Gioco dell’Anno Nominee</boardgamehonor>
-		<boardgamehonor objectid="64301">2018 Gouden Ludo Best Family Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="64303">2018 Gouden Ludo Best Family Game Winner</boardgamehonor>
-		<boardgamehonor objectid="53356">2018 Guldbrikken Best Adult Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="53360">2018 Guldbrikken Best Adult Game Winner</boardgamehonor>
-		<boardgamehonor objectid="64121">2018 Hra roku Finalist</boardgamehonor>
-		<boardgamehonor objectid="58910">2018 International Gamers Award - General Strategy: Multi-player Nominee</boardgamehonor>
-		<boardgamehonor objectid="65378">2018 Juego del Año Finalist</boardgamehonor>
-		<boardgamehonor objectid="65371">2018 Juego del Año Winner</boardgamehonor>
-		<boardgamehonor objectid="65465">2018 JUGuinho Families Game of the Year Finalist</boardgamehonor>
-		<boardgamehonor objectid="65452">2018 JUGuinho Families Game of the Year Winner</boardgamehonor>
-		<boardgamehonor objectid="65361">2018 Lys Grand Public Finalist</boardgamehonor>
-		<boardgamehonor objectid="48832">2018 Mensa Select Winner</boardgamehonor>
-		<boardgamehonor objectid="55902">2018 Nederlandse Spellenprijs Best Family Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="55905">2018 Nederlandse Spellenprijs Best Family Game Winner</boardgamehonor>
-		<boardgamehonor objectid="48839">2018 Origins Awards Best Family Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="48845">2018 Origins Awards Best Family Game Winner</boardgamehonor>
-		<boardgamehonor objectid="57420">2018 Spiel der Spiele Hit für Familien Recommended</boardgamehonor>
-		<boardgamehonor objectid="48399">2018 Spiel des Jahres Nominee</boardgamehonor>
-		<boardgamehonor objectid="49380">2018 Spiel des Jahres Winner</boardgamehonor>
-		<boardgamehonor objectid="55611">2018 Tric Trac d&#039;Argent</boardgamehonor>
-		<boardgamehonor objectid="55609">2018 Tric Trac Nominee</boardgamehonor>
-		<boardgamehonor objectid="64099">2019 Gra Roku Best Artwork Winner</boardgamehonor>
-		<boardgamehonor objectid="64084">2019 Gra Roku Family Game of the Year Nominee</boardgamehonor>
-		<boardgamehonor objectid="65407">2019 Hungarian Board Game Award Nominee</boardgamehonor>
-		<boardgamehonor objectid="64177">2019 MinD-Spielepreis Short Game Nominee</boardgamehonor>
-		<boardgamehonor objectid="64198">2019 MinD-Spielepreis Short Game Winner</boardgamehonor>
-		<boardgamehonor objectid="57068">2019 UK Games Expo Best Abstract Game Judges Award Winner</boardgamehonor>
-		<boardgamehonor objectid="57069">2019 UK Games Expo Best Abstract Game People&#039;s Choice Winner</boardgamehonor>
-		<boardgamepodcastepisode objectid="426846">222 - Azul</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="426842">226 - Top 5s</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="225520">43. DDP The best Games of 2017 (In our opinion)</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="241046">50 DDP The UKGE 2018 Preview Show</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="244387">52. The Travel Edition, Our Top 3 Games to Take on Holiday</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="379868">6: Tile Swimmers (Azul, Jaws, Mork Borg)</boardgamepodcastepisode>
-		<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
-		<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
-		<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
-		<boardgamepodcastepisode objectid="275219">Azul - Strategy</boardgamepodcastepisode>
-		<boardgameaccessory objectid="294888">Azul: 2 Player Gaming Mat</boardgameaccessory>
-		<boardgameaccessory objectid="248957">Azul: Collector&#039;s Tile Set 1</boardgameaccessory>
-		<boardgameaccessory objectid="248958">Azul: Collector&#039;s Tile Set 2</boardgameaccessory>
-		<boardgameaccessory objectid="330388">Azul: Collector&#039;s Tile Set 3</boardgameaccessory>
-		<boardgameaccessory objectid="347428">Azul: Collector&#039;s Tile Set 4</boardgameaccessory>
-		<boardgameaccessory objectid="347429">Azul: Collector&#039;s Tile Set 5</boardgameaccessory>
-		<boardgameaccessory objectid="330387">Azul: Collector&#039;s Tile Set 6</boardgameaccessory>
-		<boardgameexpansion objectid="294345">Azul: Crystal Mosaic</boardgameexpansion>
-		<boardgameaccessory objectid="256366">Azul: Factory Layout Organizer</boardgameaccessory>
-		<boardgameaccessory objectid="248959">Azul: First Player Tile</boardgameaccessory>
-		<boardgameexpansion objectid="235739">Azul: Joker Tiles</boardgameexpansion>
-		<boardgameimplementation objectid="363247">Azul: Master Chocolatier</boardgameimplementation>
-		<boardgameaccessory objectid="250753">Azul: Overlays</boardgameaccessory>
-		<boardgameimplementation objectid="346965">Azul: Queen&#039;s Garden</boardgameimplementation>
-		<boardgameexpansion objectid="264017">Azul: Special Factories Promo</boardgameexpansion>
-		<boardgameimplementation objectid="256226">Azul: Stained Glass of Sintra</boardgameimplementation>
-		<boardgameimplementation objectid="287954">Azul: Summer Pavilion</boardgameimplementation>
-		<boardgameversion objectid="420068">Baltic edition</boardgameversion>
-		<boardgamepodcastepisode objectid="223088">BGP 017: 2017 Holiday Buying Guide</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="223701">BGP 018: Top 10 Board Games of 2017</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="325216">Board Game Kiki Episode 7: Holiday Gift Guide</boardgamepodcastepisode>
-		<boardgamepublisher objectid="9068">Broadway Toys LTD</boardgamepublisher>
-		<boardgameversion objectid="560187">Bulgarian/Serbian/Macedonian edition</boardgameversion>
-		<boardgameversion objectid="395362">Chinese edition</boardgameversion>
-		<boardgamefamily objectid="5614">Country: Portugal</boardgamefamily>
-		<boardgameversion objectid="410836">Czech edition</boardgameversion>
-		<boardgamepodcastepisode objectid="383185">Decision Space (What We Talk About)</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="368302">Den svære 2&#039;er</boardgamepodcastepisode>
-		<boardgameexpansion objectid="257590">Deutscher Spielepreis 2018 Goodie Box</boardgameexpansion>
-		<boardgamefamily objectid="70360">Digital Implementations: Board Game Arena</boardgamefamily>
-		<boardgamepublisher objectid="40415">Divercentro</boardgamepublisher>
-		<boardgameversion objectid="437888">Divercentro Portuguese edition</boardgameversion>
-		<boardgamepodcastepisode objectid="258512">DJ172: Azul (2017) Michael Kiesling</boardgamepodcastepisode>
-		<boardgameversion objectid="385808">Dutch/French first edition</boardgameversion>
-		<boardgameversion objectid="401797">Dutch/French second edition</boardgameversion>
-		<boardgamemechanic objectid="2875">End Game Bonuses</boardgamemechanic>
-		<boardgameversion objectid="407637">English giant edition</boardgameversion>
-		<boardgameversion objectid="361011">English-only first edition</boardgameversion>
-		<boardgameversion objectid="399165">English-only second edition</boardgameversion>
-		<boardgameversion objectid="389764">English/French first edition</boardgameversion>
-		<boardgameversion objectid="422181">English/French second edition</boardgameversion>
-		<boardgameversion objectid="432700">English/Indonesian/Malay edition</boardgameversion>
-		<boardgamepodcastepisode objectid="252168">Ep 070 &amp;ndash; 3rd Anniversary Special &amp;amp; Tournament to the Death!!!</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="266048">ep 33: Azthul</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="228039">Ep 4 - Azul Review and Getting Peeved</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="252278">Ep.19 Bitten, and Gen Con!</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="227718">Episode #57: Holiday-Themed Games</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="227717">Episode #58: Game Difficulty</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="234316">Episode #73: 3-Player Games!</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="348180">Episode 104 - Just the Two of Us</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="298162">Episode 106 :: Best Boardgames - Brawling Brothers Blend 2019</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="223298">Episode 112- Whistle Stop with Rolling Dice &amp;amp; Taking Names</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="445645">Episode 11: Dead Reckoning</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="334192">Episode 120 :: Top 20 Board Games</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="348653">Episode 126 :: Power to the Meeple Interview</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="266396">Episode 12: Tales from the Tile Room [Azul Review]</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="284811">Episode 13 – Darling Cant You Hear Me S.O.S.</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="245711">Episode 135 -- Dusting Off The Shelves</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="235848">Episode 13: Azul</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="391320">Episode 145 :: Joy of the Stick</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="285921">Episode 14: A Dumb Feud over a Glass of Agri-Cola</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="360731">Episode 14: War Chest, Call To Adventure, Bob&#039;s Your Uncle</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="287658">Episode 15- Azul</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="233207">Episode 155 Tim Time, Interview with Designer Tim Fowers</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="360727">Episode 18: Everdell, The Crew, In The Hall Of The Mountain King</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="232441">Episode 19: We&#039;re Back!...At the saloon bantering.</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="302954">Episode 20 - Top 50 Games Part 1</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="228297">Episode 22 - New Games Delivered &amp;amp; Host Autobiographies</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="222831">Episode 223</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="224748">Episode 24: Azul, Twilight Imperium: Fourth Edition, Favelas, Galaxy Trucker, Spirit Island</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="328708">Episode 27 – Holiday Special 2019</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="235799">Episode 28 - Meaty Weeknight Gaming</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="283713">Episode 28. King of Tokyo and Azul</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="331139">Episode 3 - In the Hall of the Mountain King and Age of Steam (Deluxe)</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="268159">Episode 31: Next Move</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="272583">Episode 4 - Duelosaur Island &amp;amp; Showdown between Reef, Azul, &amp;amp; Azul Stained Glass</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="227699">Episode 44 - The 2017 Blitzies</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="272593">Episode 50: London, Azul, Hardback, Raiders of the North Sea, Potion Explosion</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="218621">Episode 53 - Evan Derrick Interview</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="262366">Episode 64 - Gaming For Good</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="378052">Episode 64:  Dune Imperium, Paladins of the West Kingdom, Zombie Teenz Evolution</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="227236">Episode 65 :: Raiders of the North Sea Review - Secret Santa</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="227996">Episode 66 :: Charterstone Review + Best Board Games of 2017</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="230157">Episode 67 - Munchkin CCG and Friends</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="229796">Episode 67 :: Godfather Review + Top 21-30 Board Games</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="232555">Episode 69 :: Sorcerer City + SaltCon Recap</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="233788">Episode 70 :: Zombicide Green Horde Review + Questions from the Hat with Cat</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="380875">Episode 72: A War of Whispers, Dice Forge, Raiders of the North Sea</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="241767">Episode 74 :: Our Favorite Board Games (21-50) + Origins Meetup Discussion</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="239709">Episode 97 - Empires of the Void II and Path of Play Day 2018</boardgamepodcastepisode>
-		<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
-		<boardgameversion objectid="386433">French-only first edition</boardgameversion>
-		<boardgameversion objectid="403423">French-only second edition</boardgameversion>
-		<boardgamepublisher objectid="15605">Galápagos Jogos</boardgamepublisher>
-		<boardgameversion objectid="403763">Galápagos Portuguese edition</boardgameversion>
-		<boardgamefamily objectid="57039">Game: Azul</boardgamefamily>
-		<boardgamepodcastepisode objectid="224751">Gamers, Grenades, and Grottos – Ep. 3</boardgamepodcastepisode>
-		<commerceweblink objectid="292748">Geek Game Shop listing for Azul</commerceweblink>
-		<commerceweblink objectid="320624">Geek Game Shop listing for Azul</commerceweblink>
-		<boardgamepublisher objectid="8820">Gém Klub Kft.</boardgamepublisher>
-		<boardgamepodcastepisode objectid="306094">GenCon 2019 Shabadoo!</boardgamepodcastepisode>
-		<boardgameversion objectid="369734">German first edition</boardgameversion>
-		<boardgameversion objectid="399023">German second edition</boardgameversion>
-		<boardgameversion objectid="417134">German second edition with SdJ</boardgameversion>
-		<boardgameversion objectid="498742">German second edition with three awards</boardgameversion>
-		<boardgamepublisher objectid="4785">Ghenos Games</boardgamepublisher>
-		<boardgameversion objectid="473068">Greek edition</boardgameversion>
-		<boardgameartist objectid="74074">Philippe Guérin</boardgameartist>
-		<boardgamepodcastepisode objectid="243979">HLG 46: Azul</boardgamepodcastepisode>
-		<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
-		<boardgameversion objectid="400923">Hungarian edition</boardgameversion>
-		<boardgamepodcastepisode objectid="227778">I Swear I’m a Word Genius – Ep. 4</boardgamepodcastepisode>
-		<boardgameversion objectid="397236">Italian edition</boardgameversion>
-		<boardgamepodcastepisode objectid="260346">Ivanhoe | Azul | Battle of the Sexes</boardgamepodcastepisode>
-		<boardgameversion objectid="391554">Japanese edition</boardgameversion>
-		<boardgamepodcastepisode objectid="220688">JTRPodcast 026 – Top 10 Games from Essen 2017</boardgamepodcastepisode>
-		<boardgamepublisher objectid="9634">KADABRA</boardgamepublisher>
-		<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
-		<boardgamedesigner objectid="42">Michael Kiesling</boardgamedesigner>
-		<boardgamepublisher objectid="8291">Korea Boardgames Co., Ltd.</boardgamepublisher>
-		<boardgameversion objectid="406911">Korean edition</boardgameversion>
-		<boardgamepublisher objectid="5812">Lacerta</boardgamepublisher>
-		<boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
-		<boardgamefamily objectid="6485">Misc: Mensa Select</boardgamefamily>
-		<boardgamepodcastepisode objectid="227605">MN 0199 Tichu, Exodus Fleet, Azul, Oh My!</boardgamepodcastepisode>
-		<boardgameversion objectid="403830">Nordic edition</boardgameversion>
-		<boardgamemechanic objectid="2041">Open Drafting</boardgamemechanic>
-		<boardgamepublisher objectid="40462">Orangutan Games</boardgamepublisher>
-		<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
-		<boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
-		<boardgameversion objectid="378114">Polish edition</boardgameversion>
-		<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
-		<boardgameartist objectid="14057">Chris Quilliams</boardgameartist>
-		<boardgamepodcastepisode objectid="214956">RDTN Episode 129: London, Azul, Flying Squirrels, and Rambling</boardgamepodcastepisode>
-		<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
-		<boardgameversion objectid="403039">Romanian/Arabic edition</boardgameversion>
-		<videogamebg objectid="348023">Royal Tiles</videogamebg>
-		<boardgameversion objectid="378408">Russian edition</boardgameversion>
-		<boardgameversion objectid="391592">Spanish edition</boardgameversion>
-		<boardgameexpansion objectid="293240">Super Power</boardgameexpansion>
-		<boardgamepublisher objectid="48279">SuperHeated Neurons</boardgamepublisher>
-		<boardgamepodcastepisode objectid="227219">TGT 073: Analysis Paralysis</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="256967">TGT 108 On Topic: Generic Older Alpha Player Feedback</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="268959">TGT 113 On Topic: Replayability</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="273080">TGT 122: $250 Game Collection</boardgamepodcastepisode>
-		<boardgameversion objectid="429878">Thai/English edition</boardgameversion>
-		<boardgamepodcastepisode objectid="241941">The Dice Men Cometh – Episode 215</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="274179">The Dice Men Cometh – Episode 245</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="221009">The Game Pit Podcast - Episode 103: Picking Over the Bones of Spiel 2017</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="219591">The Game Pit Podcast - Episode 99: Spiel 2017 Treasure Hunt Part 4</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="230682">The Good, the Board and Pulling the String: Episode 152 The Mechanisms of Negotiation</boardgamepodcastepisode>
-		<boardgamepodcastepisode objectid="228870">The Good, the Board, and the Handicapable: Episode 149 Adapting Board games to Create Attainable Goals for Students with Special Needs</boardgamepodcastepisode>
-		<boardgamefamily objectid="56419">Theme: Art</boardgamefamily>
-		<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
-		<boardgamepublisher objectid="39774">Tower Tactic Games</boardgamepublisher>
-		<boardgamemechanic objectid="2829">Turn Order: Claim Action</boardgamemechanic>
-		<boardgamepublisher objectid="9215">TWOPLUS Games</boardgamepublisher>
-		<boardgameversion objectid="592290">Ukrainian edition</boardgameversion>
-		<boardgamepodcastepisode objectid="222745">Vox Republica 156: BGG Recap &amp;amp; Game Gifts For Non-Gamers</boardgamepodcastepisode>
-		<boardgamepublisher objectid="1466">Zvezda</boardgamepublisher>
-		<boardgamepublisher objectid="50230">Бельвіль</boardgamepublisher>
-
-		<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1169">
-
-			<results numplayers="1">
-				<result value="Best" numvotes="7" />
-				<result value="Recommended" numvotes="23" />
-				<result value="Not Recommended" numvotes="742" />
-			</results>
-
-			<results numplayers="2">
-				<result value="Best" numvotes="637" />
-				<result value="Recommended" numvotes="415" />
-				<result value="Not Recommended" numvotes="38" />
-			</results>
-
-			<results numplayers="3">
-				<result value="Best" numvotes="451" />
-				<result value="Recommended" numvotes="553" />
-				<result value="Not Recommended" numvotes="23" />
-			</results>
-
-			<results numplayers="4">
-				<result value="Best" numvotes="279" />
-				<result value="Recommended" numvotes="632" />
-				<result value="Not Recommended" numvotes="97" />
-			</results>
-
-			<results numplayers="4+">
-				<result value="Best" numvotes="3" />
-				<result value="Recommended" numvotes="12" />
-				<result value="Not Recommended" numvotes="623" />
-			</results>
-		</poll>
-
-		<poll name="language_dependence" title="Language Dependence" totalvotes="74">
-
-			<results>
-				<result level="1" value="No necessary in-game text" numvotes="74" />
-				<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
-				<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
-				<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
-				<result level="5" value="Unplayable in another language" numvotes="0" />
-			</results>
-		</poll>
-
-		<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="283">
-			<results>
-				<result value="2" numvotes="0" />
-				<result value="3" numvotes="1" />
-				<result value="4" numvotes="2" />
-				<result value="5" numvotes="14" />
-				<result value="6" numvotes="74" />
-				<result value="8" numvotes="140" />
-				<result value="10" numvotes="43" />
-				<result value="12" numvotes="7" />
-				<result value="14" numvotes="1" />
-				<result value="16" numvotes="0" />
-				<result value="18" numvotes="0" />
-				<result value="21 and up" numvotes="1" />
-			</results>
-		</poll>
-
-
-		<statistics page="1">
-			<ratings>
-				<usersrated>68689</usersrated>
-				<average>7.78522</average>
-				<bayesaverage>7.67312</bayesaverage>
-
-				<ranks>
-
-					<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="65" bayesaverage="7.67312" />
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="283">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="14" />
+					<result value="6" numvotes="74" />
+					<result value="8" numvotes="140" />
+					<result value="10" numvotes="43" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
 
 
-					<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="2" bayesaverage="7.67069" />
-					<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="9" bayesaverage="7.68204" />
-
-				</ranks>
-
-				<stddev>1.1492</stddev>
-				<median>0</median>
-				<owned>104655</owned>
-				<trading>546</trading>
-				<wanting>1052</wanting>
-				<wishing>11551</wishing>
-				<numcomments>8614</numcomments>
-				<numweights>1784</numweights>
-				<averageweight>1.7651</averageweight>
-			</ratings>
-		</statistics>
-
-
-		<marketplacelistings>
-			<listing>
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>68689</usersrated>
+					<average>7.78522</average>
+					<bayesaverage>7.67312</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="65" bayesaverage="7.67312" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="2" bayesaverage="7.67069" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="9" bayesaverage="7.68204" />
+												
+											</ranks>
+					
+					<stddev>1.1492</stddev>
+					<median>0</median>
+					<owned>104655</owned>
+					<trading>546</trading>
+					<wanting>1052</wanting>
+					<wishing>11551</wishing>
+					<numcomments>8614</numcomments>
+					<numweights>1784</numweights>
+					<averageweight>1.7651</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				<marketplacelistings>
+						<listing>
 				<listdate>Mon, 25 Dec 2017 10:34:33 +0000</listdate>
 				<price currency='EUR'>100.00</price>
 				<condition>verygood</condition>
 				<notes>Played a couple of time almost in new condition. Buyer pays for shipping.</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/1381116" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sat, 14 Jul 2018 11:26:03 +0000</listdate>
 				<price currency='EUR'>42.00</price>
 				<condition>new</condition>
 				<notes>Shipping M</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/1547236" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sun, 30 Dec 2018 16:57:33 +0000</listdate>
 				<price currency='CAD'>35.00</price>
 				<condition>new</condition>
@@ -364,14 +366,14 @@ Cost for shipping in Canada will be $15-25 depending on location.
 Available for local pick-up at L5N 2A2.</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/1713327" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sun, 31 Mar 2019 04:53:33 +0000</listdate>
 				<price currency='USD'>34.00</price>
 				<condition>new</condition>
 				<notes>$2 off for Singapore local pick up</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/1804199" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Mon, 01 Jun 2020 15:00:31 +0000</listdate>
 				<price currency='USD'>59.00</price>
 				<condition>new</condition>
@@ -380,14 +382,14 @@ Available for local pick-up at L5N 2A2.</notes>
 Shipping is around $13 USD</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2161849" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Wed, 06 Jan 2021 01:46:41 +0000</listdate>
 				<price currency='USD'>38.00</price>
 				<condition>new</condition>
 				<notes>NIS</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2422745" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sun, 31 Jan 2021 19:48:27 +0000</listdate>
 				<price currency='EUR'>25.00</price>
 				<condition>good</condition>
@@ -396,7 +398,7 @@ Language independent
 Regole disponibili anche in italiano</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2449935" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sat, 17 Apr 2021 10:32:31 +0000</listdate>
 				<price currency='USD'>450.00</price>
 				<condition>likenew</condition>
@@ -409,7 +411,7 @@ Local pickup in the Kansas City, MO area only.
 (I occasionally get emails asking if I&#039;d be willing to ship it. Unfortunately, I&#039;m not interested in the logistics of doing so.)</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2531450" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Thu, 20 May 2021 21:22:04 +0000</listdate>
 				<price currency='USD'>31.99</price>
 				<condition>new</condition>
@@ -423,21 +425,21 @@ Continental U.S. - $14.95
 International (Including AK &amp; HI) - TBD</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2557649" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sat, 21 Aug 2021 22:49:07 +0000</listdate>
 				<price currency='USD'>20.00</price>
 				<condition>likenew</condition>
 				<notes></notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2627769" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Wed, 29 Sep 2021 20:05:54 +0000</listdate>
 				<price currency='USD'>25.00</price>
 				<condition>likenew</condition>
 				<notes></notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2658621" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Mon, 13 Dec 2021 12:54:51 +0000</listdate>
 				<price currency='GBP'>25.00</price>
 				<condition>likenew</condition>
@@ -445,21 +447,21 @@ International (Including AK &amp; HI) - TBD</notes>
 will ship to UK</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2729549" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sun, 19 Dec 2021 11:54:30 +0000</listdate>
 				<price currency='EUR'>35.00</price>
 				<condition>likenew</condition>
 				<notes>Gerne auch Überweisung. Versand exklusive</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2735980" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Fri, 21 Jan 2022 11:04:38 +0000</listdate>
 				<price currency='USD'>15.00</price>
 				<condition>verygood</condition>
 				<notes>Flat rate shipping to US $15.</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2762451" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Thu, 10 Feb 2022 15:05:34 +0000</listdate>
 				<price currency='EUR'>39.99</price>
 				<condition>likenew</condition>
@@ -468,21 +470,21 @@ will ship to UK</notes>
 Please ask for shipping :)</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2784267" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Tue, 15 Feb 2022 15:40:37 +0000</listdate>
 				<price currency='USD'>30.00</price>
 				<condition>likenew</condition>
 				<notes>Can pay via PayPal, Venmo or Chase</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2788618" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Thu, 17 Feb 2022 01:22:47 +0000</listdate>
 				<price currency='USD'>29.00</price>
 				<condition>likenew</condition>
 				<notes>smoke free pet free home</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2789930" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sat, 19 Feb 2022 15:40:33 +0000</listdate>
 				<price currency='USD'>29.00</price>
 				<condition>likenew</condition>
@@ -496,56 +498,56 @@ chad
 650.801.5405</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2793190" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Thu, 03 Mar 2022 03:20:14 +0000</listdate>
 				<price currency='USD'>25.00</price>
 				<condition>likenew</condition>
 				<notes>Played once. Perfect condition.</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2807846" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Wed, 09 Mar 2022 21:13:00 +0000</listdate>
 				<price currency='USD'>39.49</price>
 				<condition>new</condition>
 				<notes></notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2813677" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sun, 13 Mar 2022 08:01:45 +0000</listdate>
 				<price currency='EUR'>38.00</price>
 				<condition>new</condition>
 				<notes>Game weight: 1.280 kg</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2816558" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Wed, 23 Mar 2022 12:37:05 +0000</listdate>
 				<price currency='EUR'>39.99</price>
 				<condition>new</condition>
 				<notes></notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2824252" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sat, 02 Apr 2022 19:03:03 +0000</listdate>
 				<price currency='USD'>20.00</price>
 				<condition>verygood</condition>
 				<notes>Opened, played 2x.</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2832072" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sat, 09 Apr 2022 20:43:22 +0000</listdate>
 				<price currency='USD'>25.00</price>
 				<condition>new</condition>
 				<notes></notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2837752" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Wed, 27 Apr 2022 08:37:48 +0000</listdate>
 				<price currency='USD'>29.99</price>
 				<condition>new</condition>
 				<notes></notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2851505" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Wed, 01 Jun 2022 14:32:28 +0000</listdate>
 				<price currency='EUR'>50.00</price>
 				<condition>new</condition>
@@ -556,21 +558,21 @@ Shipping to EU would be 20 euro and the package should arrive in 7-10 days. Else
 Check out my other products for sale as well! If you buy multiple items, I will combine shipping costs. It’s much cheaper this way.</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2881656" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Wed, 15 Jun 2022 16:10:12 +0000</listdate>
 				<price currency='USD'>15.00</price>
 				<condition>verygood</condition>
 				<notes></notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2890617" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Thu, 16 Jun 2022 19:53:01 +0000</listdate>
 				<price currency='USD'>25.00</price>
 				<condition>likenew</condition>
 				<notes>Played twice and in great condition</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2891186" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Sat, 18 Jun 2022 14:18:35 +0000</listdate>
 				<price currency='USD'>15.00</price>
 				<condition>good</condition>
@@ -581,7 +583,7 @@ Buyer pays shipping from 29582 or local pickup is available in North Myrtle Beac
 I am happy to combine shipping if you purchase more than one of my games.</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2892274" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Mon, 27 Jun 2022 06:44:33 +0000</listdate>
 				<price currency='EUR'>44.95</price>
 				<condition>new</condition>
@@ -590,14 +592,14 @@ Publisher: Next Move Games
 Language(s): Dutch</notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2902622" title="marketlisting"></link>
 			</listing>
-			<listing>
+						<listing>
 				<listdate>Mon, 27 Jun 2022 06:47:07 +0000</listdate>
 				<price currency='USD'>19.00</price>
 				<condition>likenew</condition>
 				<notes></notes>
 				<link href="https://boardgamegeek.com/geekmarket/product/2902655" title="marketlisting"></link>
 			</listing>
-		</marketplacelistings>
-
-	</boardgame>
-</boardgames>
+					</marketplacelistings>			
+				
+		</boardgame>
+	</boardgames>
