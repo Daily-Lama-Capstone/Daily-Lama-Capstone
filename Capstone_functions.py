@@ -4,7 +4,7 @@ import pandas as pd
 def df_main(xtree):
     result = []
     for node in xtree:
-        if node.find("description") is not None:
+        try:
             id = node.attrib.get("objectid")
             yearpublished = node.find("yearpublished").text
             description = node.find("description").text
@@ -17,6 +17,8 @@ def df_main(xtree):
             result.append({"id": id ,"description": description, "yearpublished": yearpublished, 
                         "min_players": minplayers,"max_players": maxplayers, "playtime":playingtime, "min_playtime":minplayingtime, 
                         "max_playtime":maxplayingtime, "min_age": min_age})
+        except:
+            continue
     return pd.DataFrame(result)
 
 def df_poll(xtree, entrypoint=""):
