@@ -89,7 +89,11 @@ def df_subnodes(xtree, entrypoint="name"):
         id = node.attrib.get("objectid")
         if entrypoint == "name":
             for node2 in node.findall('name'):
-                result.append({"id": id ,"name": node2.text})
+                if 'primary' in node2.attrib:
+                    primary_name = 1
+                else:
+                    primary_name = 0
+                result.append({"id": id ,"name": node2.text,"primary": primary_name})
         elif entrypoint in subnodes:
             for node2 in node.findall(entrypoint):
                 result.append({"id": id ,"cat_id": node2.attrib['objectid'] ,"cat_name": node2.text})
