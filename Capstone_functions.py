@@ -5,17 +5,20 @@ def df_main(xtree):
     result = []
     for node in xtree:
         id = node.attrib.get("objectid")
-        description = node.find("description").text
-        yearpublished = node.find("yearpublished").text
-        minplayers = node.find("minplayers").text
-        maxplayers = node.find("maxplayers").text
-        playingtime = node.find("playingtime").text
-        maxplayingtime = node.find("maxplaytime").text
-        minplayingtime = node.find("minplaytime").text
-        min_age = node.find("age").text
-        result.append({"id": id ,"description": description, "yearpublished": yearpublished, 
-                    "min_players": minplayers,"max_players": maxplayers, "playtime":playingtime, "min_playtime":minplayingtime, 
-                    "max_playtime":maxplayingtime, "min_age": min_age})
+        try:
+            description = node.find("description").text
+            yearpublished = node.find("yearpublished").text
+            minplayers = node.find("minplayers").text
+            maxplayers = node.find("maxplayers").text
+            playingtime = node.find("playingtime").text
+            maxplayingtime = node.find("maxplaytime").text
+            minplayingtime = node.find("minplaytime").text
+            min_age = node.find("age").text
+            result.append({"id": id ,"description": description, "yearpublished": yearpublished, 
+                        "min_players": minplayers,"max_players": maxplayers, "playtime":playingtime, "min_playtime":minplayingtime, 
+                        "max_playtime":maxplayingtime, "min_age": min_age})
+        except:
+            continue
     return pd.DataFrame(result)
 
 def df_poll(xtree, entrypoint=""):
