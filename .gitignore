@@ -1,5 +1,7 @@
 # Data
 data/
+data/kickstarter/
+data/kickstarter_json/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

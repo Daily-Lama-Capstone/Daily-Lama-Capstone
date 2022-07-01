@@ -4,7 +4,16 @@
 			"path": "."
 		},
 		{
-			"path": "../../da-external-data-sourcing"
+			"path": "../ds-meetups"
+		},
+		{
+			"path": "../../neuefische/da-sql-api-project"
+		},
+		{
+			"path": "../../neuefische/da-external-data-sourcing"
+		},
+		{
+			"path": "../../neuefische/da-linear-regression"
 		}
 	],
 	"settings": {}
