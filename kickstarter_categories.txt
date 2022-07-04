@@ -1,0 +1,171 @@
+id: 1 ---> art
+id: 3 ---> comics
+id: 6 ---> dance
+id: 7 ---> design
+id: 9 ---> fashion
+id: 10 ---> food
+id: 11 ---> film & video
+id: 12 ---> games
+id: 13 ---> journalism
+id: 14 ---> music
+id: 15 ---> photography
+id: 16 ---> technology
+id: 17 ---> theater
+id: 18 ---> publishing
+id: 20 ---> art/conceptual art
+id: 21 ---> art/digital art
+id: 22 ---> art/illustration
+id: 23 ---> art/painting
+id: 24 ---> art/performance art
+id: 25 ---> art/sculpture
+id: 26 ---> crafts
+id: 27 ---> design/graphic design
+id: 28 ---> design/product design
+id: 29 ---> film & video/animation
+id: 30 ---> film & video/documentary
+id: 31 ---> film & video/narrative film
+id: 32 ---> film & video/shorts
+id: 33 ---> film & video/webseries
+id: 34 ---> games/tabletop games
+id: 35 ---> games/video games
+id: 36 ---> music/classical music
+id: 37 ---> music/country & folk
+id: 38 ---> music/electronic music
+id: 39 ---> music/hip-hop
+id: 40 ---> music/indie rock
+id: 41 ---> music/jazz
+id: 42 ---> music/pop
+id: 43 ---> music/rock
+id: 44 ---> music/world music
+id: 45 ---> publishing/art books
+id: 46 ---> publishing/children's books
+id: 47 ---> publishing/fiction
+id: 48 ---> publishing/nonfiction
+id: 49 ---> publishing/periodicals
+id: 50 ---> publishing/poetry
+id: 51 ---> technology/software
+id: 52 ---> technology/hardware
+id: 53 ---> art/public art
+id: 54 ---> art/mixed media
+id: 239 ---> publishing/radio & podcasts
+id: 241 ---> music/metal
+id: 249 ---> comics/anthologies
+id: 250 ---> comics/comic books
+id: 251 ---> comics/events
+id: 252 ---> comics/graphic novels
+id: 253 ---> comics/webcomics
+id: 254 ---> dance/performances
+id: 255 ---> dance/residencies
+id: 256 ---> dance/spaces
+id: 257 ---> dance/workshops
+id: 258 ---> design/architecture
+id: 259 ---> design/civic design
+id: 260 ---> design/interactive design
+id: 261 ---> design/typography
+id: 262 ---> fashion/accessories
+id: 263 ---> fashion/apparel
+id: 264 ---> fashion/childrenswear
+id: 265 ---> fashion/couture
+id: 266 ---> fashion/footwear
+id: 267 ---> fashion/jewelry
+id: 268 ---> fashion/pet fashion
+id: 269 ---> fashion/ready-to-wear
+id: 270 ---> games/gaming hardware
+id: 271 ---> games/live games
+id: 272 ---> games/mobile games
+id: 273 ---> games/playing cards
+id: 274 ---> games/puzzles
+id: 275 ---> photography/animals
+id: 276 ---> photography/fine art
+id: 277 ---> photography/nature
+id: 278 ---> photography/people
+id: 279 ---> photography/places
+id: 280 ---> photography/photobooks
+id: 281 ---> theater/experimental
+id: 282 ---> theater/festivals
+id: 283 ---> theater/immersive
+id: 284 ---> theater/musical
+id: 285 ---> theater/plays
+id: 286 ---> theater/spaces
+id: 287 ---> art/ceramics
+id: 288 ---> art/installations
+id: 289 ---> art/textiles
+id: 290 ---> art/video art
+id: 291 ---> film & video/action
+id: 292 ---> film & video/comedy
+id: 293 ---> film & video/drama
+id: 294 ---> film & video/experimental
+id: 295 ---> film & video/festivals
+id: 296 ---> film & video/fantasy
+id: 297 ---> film & video/horror
+id: 298 ---> film & video/movie theaters
+id: 299 ---> film & video/music videos
+id: 300 ---> film & video/romance
+id: 301 ---> film & video/science fiction
+id: 302 ---> film & video/thrillers
+id: 303 ---> film & video/television
+id: 304 ---> food/bacon
+id: 305 ---> food/community gardens
+id: 306 ---> food/cookbooks
+id: 307 ---> food/drinks
+id: 308 ---> food/events
+id: 309 ---> food/farms
+id: 310 ---> food/farmer's markets
+id: 311 ---> food/food trucks
+id: 312 ---> food/restaurants
+id: 313 ---> food/small batch
+id: 314 ---> food/spaces
+id: 315 ---> food/vegan
+id: 316 ---> music/blues
+id: 317 ---> music/chiptune
+id: 318 ---> music/faith
+id: 319 ---> music/kids
+id: 320 ---> music/latin
+id: 321 ---> music/punk
+id: 322 ---> music/r&b
+id: 323 ---> publishing/academic
+id: 324 ---> publishing/anthologies
+id: 325 ---> publishing/calendars
+id: 326 ---> publishing/literary journals
+id: 327 ---> publishing/translations
+id: 328 ---> publishing/young adult
+id: 329 ---> publishing/zines
+id: 330 ---> film & video/family
+id: 331 ---> technology/3d printing
+id: 332 ---> technology/apps
+id: 333 ---> technology/camera equipment
+id: 334 ---> technology/diy electronics
+id: 335 ---> technology/fabrication tools
+id: 336 ---> technology/flight
+id: 337 ---> technology/gadgets
+id: 338 ---> technology/robots
+id: 339 ---> technology/sound
+id: 340 ---> technology/space exploration
+id: 341 ---> technology/wearables
+id: 342 ---> technology/web
+id: 343 ---> crafts/candles
+id: 344 ---> crafts/crochet
+id: 345 ---> crafts/diy
+id: 346 ---> crafts/embroidery
+id: 347 ---> crafts/glass
+id: 348 ---> crafts/knitting
+id: 349 ---> publishing/letterpress
+id: 350 ---> crafts/pottery
+id: 351 ---> crafts/printing
+id: 352 ---> crafts/quilts
+id: 353 ---> crafts/stationery
+id: 354 ---> crafts/taxidermy
+id: 355 ---> crafts/weaving
+id: 356 ---> crafts/woodworking
+id: 357 ---> journalism/audio
+id: 358 ---> journalism/photo
+id: 359 ---> journalism/print
+id: 360 ---> journalism/video
+id: 361 ---> journalism/web
+id: 362 ---> technology/makerspaces
+id: 386 ---> music/comedy
+id: 387 ---> publishing/comedy
+id: 388 ---> theater/comedy
+id: 389 ---> publishing/literary spaces
+id: 395 ---> art/social practice
+id: 396 ---> design/toys
