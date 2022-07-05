@@ -23,8 +23,14 @@ keys_to_dump = [x for x in all_keys if x not in keys_to_keep]
 columns_to_keep = ['name', 'goal', 'pledged', 'state', 'slug', 'country',
                    'currency', 'deadline', 'created_at',
                    'launched_at', 'backers_count', 'usd_pledged', 
-                   'creator_id', 'creator_name', 'state_changed_at']
+                   'creator_name', 'state_changed_at']
 
+to_datetime_columns = ['created_at',"launched_at",'deadline','state_changed_at']
+
+def unix_to_datetime(df,columns_to_change=to_datetime_columns):
+    for col in columns_to_change:
+        df[col] = pd.to_datetime(df[col],unit='s')
+    return df
 
 def list_of_lines(filepath):
     with open(filepath) as fp:

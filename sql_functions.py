@@ -76,5 +76,3 @@ def build_table(engine, table_name, dataframe, schema):
         except (Exception, psycopg2.DatabaseError) as error:
             print(error)
             engine = None
-
-    

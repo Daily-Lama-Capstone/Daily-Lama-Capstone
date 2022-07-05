@@ -122,3 +122,8 @@ def df_subnodes(xtree, entrypoint="name"):
                         "condition": node3.find("condition").text
                         })
     return pd.DataFrame(result)
+
+def rename_game_names(df,column_name="game_name"):
+    if column_name in df.columns:
+        df[column_name] =  df[column_name].str.findall(r'\w|\s').str.join('').str.replace(r"\s+","_").str.lower()
+    return df
