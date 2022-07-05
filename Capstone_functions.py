@@ -21,6 +21,21 @@ def df_main(xtree):
             continue
     return pd.DataFrame(result)
 
+
+def df_game_type(xtree):
+    type_d = []
+    for node in xtree:
+        id = node.attrib.get("objectid")
+    for node2 in node:
+        if node2.tag == 'rpg':
+            type_d.append({'id': id, 'type': 'rpg'})
+        elif node2.tag == 'videogametheme':
+            type_d.append({'id': id, 'type': 'videogame'})  
+        else:
+            type_d.append({'id': id, 'type': 'general'})  
+
+    return pd.DataFrame(type_d).drop_duplicates()
+
 def df_poll(xtree, entrypoint=""):
     '''
     INPUT:\n
