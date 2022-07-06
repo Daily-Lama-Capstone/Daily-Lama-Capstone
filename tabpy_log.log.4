@@ -1,0 +1,75 @@
+2022-07-06,12:44:00 [INFO] (base_handler.py:base_handler:115): function to evaluate=def _user_script(tabpy, _arg1, _arg10, _arg11, _arg12, _arg13, _arg14, _arg15, _arg2, _arg3, _arg4, _arg5, _arg6, _arg7, _arg8, _arg9):
+ 
+ import pandas as pd
+ import numpy as np
+ from sklearn.linear_model import LogisticRegression
+ from sklearn.neighbors import KNeighborsClassifier
+ from sklearn.preprocessing import MinMaxScaler
+ from sklearn.preprocessing import StandardScaler
+ from ast import literal_eval
+ 
+ d={
+ 'max_players': literal_eval(_arg1[0]),
+ 'max_playtime': literal_eval(_arg2[0]),
+ 'min_age': literal_eval(_arg3[0]),
+ 'min_players': literal_eval(_arg4[0]),
+ 'min_playtime': literal_eval(_arg5[0]),
+ 'playtime': literal_eval(_arg6[0]),
+ 'price_in_dollars': literal_eval(_arg7[0]),
+ 'target_reached': literal_eval(_arg8[0])
+ }
+ 
+ df=pd.DataFrame(d)
+ X=df.iloc[:,:7]
+ y=df.iloc[:,7]
+ 
+ mms=MinMaxScaler()
+ X_t=mms.fit_transform(X)
+ 
+ lr=LogisticRegression()
+ lr.fit(X_t,y)
+ 
+ inp_list = [_arg9[0], _arg10[0], _arg11[0], _arg12[0], _arg13[0], _arg14[0], _arg15[0]]
+ inp=np.array(inp_list).reshape(1, -1)
+ 
+ inp=mms.transform(inp)
+ 
+ pred=lr.predict(inp)
+ prob=lr.predict_proba(inp)
+ 
+ return str(pred[0])
+
+2022-07-06,12:44:04 [INFO] (web.py:web:2239): 200 POST /evaluate (127.0.0.1) 4003.59ms
+2022-07-06,12:44:04 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2022-07-06,12:44:04 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2022-07-06,12:44:04 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2022-07-06,12:44:04 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2022-07-06,12:44:04 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2022-07-06,12:44:04 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2022-07-06,12:44:04 [DEBUG] (state.py:state:511): Collecting Access-Control-Allow-Origin from state file ...
+2022-07-06,12:44:04 [DEBUG] (state.py:state:613): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2022-07-06,12:44:04 [DEBUG] (state.py:state:635): Returning value ''
+2022-07-06,12:44:04 [DEBUG] (state.py:state:613): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2022-07-06,12:44:04 [DEBUG] (state.py:state:635): Returning value ''
+2022-07-06,12:44:04 [DEBUG] (state.py:state:613): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2022-07-06,12:44:04 [DEBUG] (state.py:state:635): Returning value ''
+2022-07-06,12:44:04 [DEBUG] (state.py:state:613): Loading option 'Description' from section [Service Info]...
+2022-07-06,12:44:04 [DEBUG] (state.py:state:635): Returning value ''
+2022-07-06,12:44:04 [DEBUG] (state.py:state:613): Loading option 'Creation Time' from section [Service Info]...
+2022-07-06,12:44:04 [DEBUG] (state.py:state:635): Returning value '0'
+2022-07-06,12:44:04 [DEBUG] (state.py:state:613): Loading option 'Name' from section [Service Info]...
+2022-07-06,12:44:04 [DEBUG] (state.py:state:635): Returning value 'TabPy Server'
+2022-07-06,12:44:04 [INFO] (web.py:web:2239): 200 GET /info (127.0.0.1) 6.12ms
+2022-07-06,12:44:05 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2022-07-06,12:44:05 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2022-07-06,12:44:05 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2022-07-06,12:44:05 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2022-07-06,12:44:05 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2022-07-06,12:44:05 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2022-07-06,12:44:05 [DEBUG] (state.py:state:511): Collecting Access-Control-Allow-Origin from state file ...
+2022-07-06,12:44:05 [DEBUG] (state.py:state:613): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2022-07-06,12:44:05 [DEBUG] (state.py:state:635): Returning value ''
+2022-07-06,12:44:05 [DEBUG] (state.py:state:613): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2022-07-06,12:44:05 [DEBUG] (state.py:state:635): Returning value ''
+2022-07-06,12:44:05 [DEBUG] (state.py:state:613): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2022-07-06,12:44:05 [DEBUG] (state.py:state:635): Returning value ''
