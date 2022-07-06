@@ -1,4 +1,5 @@
 import pandas as pd
+import sql_functions as sf
 
 
 def df_main(xtree):
@@ -142,3 +143,30 @@ def rename_game_names(df,column_name="game_name"):
     if column_name in df.columns:
         df[column_name] =  df[column_name].str.findall(r'\w|\s').str.join('').str.replace(r"\s+","_").str.lower()
     return df
+
+def avg_price_from_marketplace(query = f"Select * from bgg_data.marketplace_listings",
+                                new = True, likenew = True, verygood = True):
+    """ 
+    Optional INPUT arguments: \n
+    - query to get the dataframe from our db \n
+    - new, likenew, verygood are the conditions. All are True by default. Set at least new=True\n\n
+    OUTPUT:\n
+    dataframe with only unique ids per row and average prices from input marketplace_listings dataframe
+    """
+    df = sf.get_dataframe(query)
+    if new and likenew and verygood:
+        mask = (df['condition'] == 'new') | ( df['condition'] == 'likenew') | (df["condition"] == "verygood")
+    elif new and likenew:
+        mask = (df['condition'] == 'new') | ( df['condition'] == 'likenew')
+    elif new:
+        mask = (df['condition'] == 'new')
+    else:
+        mask = (df == df)
+    df_filter = df.where(mask)
+    df_filter.dropna()
+    df_avg_prices = df_filter.groupby('id').mean().reset_index()
+    df_avg_prices["id"] = df_avg_prices["id"].convert_dtypes(convert_integer=True)
+    df_avg_prices = df_avg_prices[["id","price_in_dollars"]]
+    df_avg_prices.rename({"price_in_dollars":"avg_price"},axis=1,inplace=True)
+    df_avg_prices["avg_price"] = df_avg_prices["avg_price"].round(2)
+    return df_avg_prices
