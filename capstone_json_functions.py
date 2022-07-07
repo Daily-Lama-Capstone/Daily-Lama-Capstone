@@ -1,3 +1,4 @@
+from datetime import date
 import pandas as pd
 import json
 import os
@@ -6,7 +7,8 @@ from pathlib import Path
 keys_to_keep = ["name", "goal", "pledged", "state", "slug",
                 "country", "currency", 'state_changed_at',
                 "deadline", "created_at", "launched_at",
-                "backers_count", "usd_pledged", "current_currency",
+                "backers_count", "usd_pledged",
+                'usd_pledged',
                 "creator"]
 
 all_keys = ['id', 'photo', 'name', 'blurb', 'goal', 'pledged',
@@ -23,7 +25,9 @@ keys_to_dump = [x for x in all_keys if x not in keys_to_keep]
 
 columns_to_keep = ['name', 'goal', 'pledged', 'state', 'slug', 'country',
                    'currency', 'deadline', 'created_at',
-                   'launched_at', 'backers_count', 'usd_pledged', 
+                   'launched_at', 'backers_count', 'usd_pledged',
+                   'converted_pledged_amount', 'fx_rate',
+                    'usd_exchange_rate', 'current_currency', 'usd_type', 
                    'creator_name', 'state_changed_at']
 
 to_datetime_columns = ['created_at',"launched_at",'deadline','state_changed_at']
@@ -31,6 +35,15 @@ to_datetime_columns = ['created_at',"launched_at",'deadline','state_changed_at']
 def unix_to_datetime(df,columns_to_change=to_datetime_columns):
     for col in columns_to_change:
         df[col] = pd.to_datetime(df[col],unit='s')
+    return df
+
+def datetime_to_unix(df):
+    for col in df.columns:
+        try:
+            if type(df[col]) == date:
+                df[col] = df[col].astype(int) / 10**9
+        except:
+            print("Something went wrong!")
     return df
 
 def list_of_lines(filepath):
@@ -83,6 +96,7 @@ def clean_df(df,cols_to_keep=columns_to_keep):
     except:
         print("ERROR: Could not round or find column name 'usd_pledged'")
     df['game_name'] =  df['game_name'].str.findall(r'\w|\s').str.join('').str.replace(r"\s+","_").str.lower()
+    return df
 
 
 def list_of_categories(filepath, dumpfile=False):
