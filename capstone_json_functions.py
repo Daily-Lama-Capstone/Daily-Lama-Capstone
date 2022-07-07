@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import os
+from pathlib import Path
 
 keys_to_keep = ["name", "goal", "pledged", "state", "slug",
                 "country", "currency", 'state_changed_at',
@@ -54,6 +55,34 @@ def build_df_from_lines_list(line_list, category=34):
         except:
             continue
     return df
+
+def build_df_from_all_files_in_dir(directory = "data/kickstarter_json/"):
+    pathlist = Path(directory).glob('**/*.json')
+    df_all = pd.DataFrame()
+    counter = 0
+    for path in pathlist:
+        file_path = str(path)
+        print(file_path)
+        lines = list_of_lines(file_path)
+        df_temp = build_df_from_lines_list(lines)
+        df_all = pd.concat([df_all, df_temp])
+        counter += 1
+    print(f"{counter} files have been dataframed")
+    return df_all
+
+
+def clean_df(df,cols_to_keep=columns_to_keep):
+    df = df[columns_to_keep]
+    df = unix_to_datetime(df)
+    try:
+        df.rename({"name":"game_name"},axis=1,inplace=True)
+    except:
+        print("ERROR: Could not find columns name 'name'")
+    try:
+        df = df.astype({'usd_pledged': f"{'float64'}"}).round(2)
+    except:
+        print("ERROR: Could not round or find column name 'usd_pledged'")
+    df['game_name'] =  df['game_name'].str.findall(r'\w|\s').str.join('').str.replace(r"\s+","_").str.lower()
 
 
 def list_of_categories(filepath, dumpfile=False):
