@@ -1,4 +1,5 @@
 from datetime import date
+from numpy import datetime64
 import pandas as pd
 import json
 import os
@@ -40,7 +41,7 @@ def unix_to_datetime(df,columns_to_change=to_datetime_columns):
 def datetime_to_unix(df):
     for col in df.columns:
         try:
-            if type(df[col]) == date:
+            if type(df[col][0]) == pd.Timestamp:
                 df[col] = df[col].astype(int) / 10**9
         except:
             print("Something went wrong!")
