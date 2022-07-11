@@ -5,6 +5,18 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../../neuefische/da-EDA_project"
+		},
+		{
+			"path": "../../Google_sheet_test"
+		},
+		{
+			"path": "../../sofatutor"
+		},
+		{
+			"path": "../../neuefische/da-linear-regression"
 		}
 	],
 	"settings": {}
