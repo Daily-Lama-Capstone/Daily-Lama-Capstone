@@ -6,8 +6,6 @@ data/kickstarter_json/
 .DS_Store
 .gitignore
 
-.gitignore
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
